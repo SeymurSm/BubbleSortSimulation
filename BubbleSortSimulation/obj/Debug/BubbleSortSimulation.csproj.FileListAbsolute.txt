@@ -1,0 +1,13 @@
+C:\Users\SeymurMammadli\source\repos\BubbleSortSimulation\BubbleSortSimulation\bin\Debug\BubbleSortSimulation.exe.config
+C:\Users\SeymurMammadli\source\repos\BubbleSortSimulation\BubbleSortSimulation\bin\Debug\BubbleSortSimulation.exe
+C:\Users\SeymurMammadli\source\repos\BubbleSortSimulation\BubbleSortSimulation\bin\Debug\BubbleSortSimulation.pdb
+C:\Users\SeymurMammadli\source\repos\BubbleSortSimulation\BubbleSortSimulation\obj\Debug\BubbleSortSimulation.csprojAssemblyReference.cache
+C:\Users\SeymurMammadli\source\repos\BubbleSortSimulation\BubbleSortSimulation\obj\Debug\BubbleSortSimulation.Properties.Resources.resources
+C:\Users\SeymurMammadli\source\repos\BubbleSortSimulation\BubbleSortSimulation\obj\Debug\BubbleSortSimulation.csproj.GenerateResource.cache
+C:\Users\SeymurMammadli\source\repos\BubbleSortSimulation\BubbleSortSimulation\obj\Debug\BubbleSortSimulation.csproj.CoreCompileInputs.cache
+C:\Users\SeymurMammadli\source\repos\BubbleSortSimulation\BubbleSortSimulation\obj\Debug\BubbleSortSimulation.exe
+C:\Users\SeymurMammadli\source\repos\BubbleSortSimulation\BubbleSortSimulation\obj\Debug\BubbleSortSimulation.pdb
+C:\Users\SeymurMammadli\source\repos\BubbleSortSimulation\BubbleSortSimulation\bin\Debug\OxyPlot.dll
+C:\Users\SeymurMammadli\source\repos\BubbleSortSimulation\BubbleSortSimulation\bin\Debug\OxyPlot.xml
+C:\Users\SeymurMammadli\source\repos\BubbleSortSimulation\BubbleSortSimulation\obj\Debug\BubbleSortSimulation.csproj.CopyComplete
+C:\Users\SeymurMammadli\source\repos\BubbleSortSimulation\BubbleSortSimulation\obj\Debug\BubbleSortSimulation.BubbleSortForm.resources
